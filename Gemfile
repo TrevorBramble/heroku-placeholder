@@ -1,4 +1,5 @@
-ruby '2.3.1'
+ruby '2.5.3'
+
 source 'https://rubygems.org'
 
-gem 'rack'
+gem 'rack', '~> 2.0.6'
